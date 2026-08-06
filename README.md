@@ -15,4 +15,5 @@ Considere as seguintes regras:
 - **Álbum:** Vinculado a um *Filme* e possui um preço unitário (ex: R$ 15,00).
 - **Pacote de Figurinhas:** Vinculado a um *Filme*, contém sempre 7 figurinhas e possui um preço unitário por pacote (ex: R$ 4,00).
 - **Item de Venda / Venda:** Registra o que o cliente está comprando (quantidade de álbuns e quantidade de pacotes de figurinhas de um determinado filme).
+
 Use funções, parâmetros, listas, dicionários e organize o projeto em mais de um arquivo.
