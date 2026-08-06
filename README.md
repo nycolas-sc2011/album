@@ -1,5 +1,5 @@
 ### Projeto Album
-
+-
 Uma grande editora vende álbuns de figurinhas colecionáveis baseados em personagens de filmes de sucesso.
 - Cada **Álbum** representa um filme específico e possui um valor fixo.
 - As **Figurinhas** são comercializadas exclusivamente em Pacotes.
